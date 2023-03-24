@@ -1,0 +1,2 @@
+<h2>XMLHttpRequest Sincrono</h2>
+<h3>Prueba de XMLHttpresquest Sincrono</h3>
